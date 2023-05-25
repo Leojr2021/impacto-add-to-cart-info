@@ -1,0 +1,7 @@
+.container {
+  margin: 35px;
+}
+
+.container__item {
+  margin-bottom: 1px solid #1a1a1a;
+}
